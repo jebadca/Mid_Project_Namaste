@@ -7,6 +7,16 @@ Analysis of bank data, with the goal of understanding which customers accept cre
 - Jesús Badenes
 - Suphawadee Mangold
 
+## Case
+- Our bank company launched the credit card campaign (H1'2023) and failed the target compared to last year.
+- The company wants to invest in marketing strategy using data-driven decisions
+
+## Project Objectives:
+- Company goal is to enhance sales growth with an ROI of > 400% and increase sales of 20,000 credit cards.
+That leads to the data team goal:
+    - Build a model (Machine Learning: Classification) to target the right population for the next campaign
+
+
 ### Schedule
 
 Tuesday, 25 April 2023 - Planning 
@@ -23,7 +33,7 @@ Saturday, 6 May 2023 - Presentation!
 
 
 
-Note: 
+#### Note: 
 - Our group uses trello to plan project --> [Link to Trello](https://trello.com/b/JAYXo8eF/midtermproject) 
 - We communicate mainly via Discord group chat
 
@@ -39,7 +49,7 @@ Rules:
 Our presentation can be found [here](https://github.com/suphawadeeth/Mid_Project_Namaste/blob/main/slide_presentation.pdf)
   
 ### Approaches
-1) Understand the problem --> defind target
+1) Understand the problem --> define target
 2) Data Exploration: Python, SQL, Tableau
 3) Build the best model
     - We have built and tested 10 different models along the process.
