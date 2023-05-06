@@ -8,15 +8,24 @@ Analysis of bank data, with the goal of understanding which customers accept cre
 - Suphawadee Mangold
 
 ### Schedule
+
 Tuesday, 25 April 2023 - Planning 
+
 Thursday, 27 April 2023 - EDA, SQL, build a baseline model 
+
 Saturday, 29 April 2023 - Improving the model (imputation)
+
 Tuesday, 2 May 2023 - Visualization with Tableau
+
 Thrusday, 4 May 2023 - Finish slide
+
 Saturday, 6 May 2023 - Presentation!
 
 
-Note: our group uses trello to plan project [Link to Trello](https://trello.com/b/JAYXo8eF/midtermproject) and communicate mainly via Discord group chat
+
+Note: 
+- Our group uses trello to plan project --> [Link to Trello](https://trello.com/b/JAYXo8eF/midtermproject) 
+- We communicate mainly via Discord group chat
 
 ### Project Detail
 - Project detail can be found [here](https://github.com/ironhack-edu/data_mid_bootcamp_project_classification/blob/master/project_details_classification.md)
@@ -27,7 +36,7 @@ Rules:
 - 10 minutes
 - Leave 2-3 minutes for Q&A
 
-Our presentation can be found [here]()
+Our presentation can be found [here](https://github.com/suphawadeeth/Mid_Project_Namaste/blob/main/slide_presentation.pdf)
   
 ### Approaches
 1) Understand the problem --> defind target
@@ -116,19 +125,11 @@ To enable it use: ``` SET GLOBAL local_infile = 1; ```
 - [TABLEAU CREATE BINS FROM A CALCULATED FIELD](https://tarsolutions.co.uk/blog/tableau-create-bins-from-measure-calculation/)
 - [Forum: getting Null after creating bin in Tableau](https://community.tableau.com/s/question/0D54T00000tl1KNSAY/created-bins-but-getting-only-null-and-error-value-as-output)
 - [Forum: display Null bins in histograms](https://community.tableau.com/s/question/0D54T00000C5ZWKSA3/display-of-null-bins-in-histograms)
-- 
+
 
 
 #### Exploring Data Analysis
-[When Do You Need to Standardize the Variables in a Regression Model?](https://statisticsbyjim.com/regression/standardize-variables-regression/)
-
-
-
-IF [Average Balance] < 787.5 THEN "Category A"
-ELSEIF [Average Balance] < 1007.0 THEN "Category B"
-ELSEIF [Average Balance] < 1153.25 THEN "Category C"
-ELSEIF [Average Balance] < 3366.25 THEN "Category D"
-END
+- [When Do You Need to Standardize the Variables in a Regression Model?](https://statisticsbyjim.com/regression/standardize-variables-regression/)
 
 
 #### Evaluation Metrics for Classification Model
