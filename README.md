@@ -47,6 +47,9 @@ Rules:
 - Leave 2-3 minutes for Q&A
 
 Our presentation can be found [here](https://github.com/suphawadeeth/Mid_Project_Namaste/blob/main/slide_presentation.pdf)
+
+### Tableau
+- Some of our charts can be found [here](https://public.tableau.com/views/creditcad_marketing_project/Story2?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
   
 ### Approaches
 1) Understand the problem --> define target
@@ -76,7 +79,9 @@ There are 2 ways you can do:
 
 ```
 USE name_your_schema;
+```
 
+```
 CREATE TABLE `name_your_schema`.`name_your_table` (
   `customer_number` INT NOT NULL,
   `offer_accepted` VARCHAR(45) NOT NULL,
