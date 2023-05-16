@@ -150,6 +150,5 @@ SELECT *
 FROM credit_card_data
 ORDER BY q1_balance
 LIMIT 11;
-# Not sure I understand the question correctly, but these 11 customers have the least q1 balance (including 0)
 
 
